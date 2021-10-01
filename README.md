@@ -1,6 +1,6 @@
 # Ember.js-FIrst-App
 
-
+![hero image](assets/download.png)
 ## Prerequisites
 
 You will need the following things properly installed on your computer.
